@@ -1,2 +1,0 @@
-[ 2025-08-31 12:47:37,078 ] 27 dotenv.main - WARNING - python-dotenv could not parse statement starting at line 1
-[ 2025-08-31 12:47:38,542 ] 20 root - INFO - Initiate the data ingestion
