@@ -37,3 +37,5 @@ LOGS:
 [ 2025-08-31 14:14:43,999 ] 50 root - INFO - Exited the save_object method of MainUtils class
 [ 2025-08-31 14:14:43,999 ] 152 root - INFO - Model trainer artifact: ModelTrainerArtifact(trained_model_file_path='Artifacts\\08_31_2025_14_10_48\\model_trainer\\trained_model\\model.pkl', train_metric_artifact=ClassificationMetricArtifact(f1_score=0.990990990990991, precision_score=0.9894885789367294, recall_score=0.9924979724249797), test_metric_artifact=ClassificationMetricArtifact(f1_score=0.9703131354209028, precision_score=0.9667747163695299, recall_score=0.9738775510204082))
 [ 2025-08-31 14:14:44,001 ] 42 root - INFO - Model Training artifact created
+
+Configure EC2 for github action as runner
